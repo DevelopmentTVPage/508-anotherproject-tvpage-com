@@ -24,6 +24,8 @@
     "id": "97124533",
     "loginId": "1758927",
     "entityType": "1",
+    "sortOrder": "23",
+    "entityIdParent": "97264032",
     "titleTextEncoded": "HSN-Relax-Recharge-Meditation-101",
     "category": "",
     "settings": "",
@@ -42,7 +44,13 @@
         "quality": ""
     },
     "transcripts": "",
-    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2017-10-20\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "engagement_score": {
+                "lastUpdatedDate": "2017-10-20"
+            }
+        }
+    },
     "tvp_profiles": [
         "11"
     ],

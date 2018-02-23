@@ -24,6 +24,8 @@
     "id": "96182108",
     "loginId": "1758927",
     "entityType": "1",
+    "sortOrder": "3",
+    "entityIdParent": "97264032",
     "titleTextEncoded": "HSN-Connected-Life-Dr-Michael-Breus-Part-4",
     "category": "",
     "settings": "",
@@ -42,7 +44,18 @@
         "quality": ""
     },
     "transcripts": "",
-    "metrics_statistics": "{\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2017-10-20\"}},\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2017-11-17\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "engagement_score": {
+                "lastUpdatedDate": "2017-10-20"
+            }
+        },
+        "CVV_VI": {
+            "conversion_score": {
+                "lastUpdatedDate": "2017-11-17"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": true,
     "tvp_profiles_maxscore": 356.9631,

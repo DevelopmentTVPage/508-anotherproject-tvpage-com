@@ -1,0 +1,19 @@
+{
+    "title": "Category",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1497025329",
+    "date_modified": "1497035412",
+    "tags": null,
+    "sourceId": null,
+    "duration": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "97264032",
+    "loginId": "1758927",
+    "entityType": "3",
+    "titleTextEncoded": "Category",
+    "category": null,
+    "settings": "{\"canvasImage\":\"default_canvas3.jpg\",\"colorClass\":\"light\",\"canvasType\":\"gallery\"}",
+    "transcripts": null
+}

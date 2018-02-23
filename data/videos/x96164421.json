@@ -24,6 +24,8 @@
     "id": "96164421",
     "loginId": "1758927",
     "entityType": "1",
+    "sortOrder": "18",
+    "entityIdParent": "97264032",
     "titleTextEncoded": "HSN-Connected-Life-Donna-D-Cruz-Part-4",
     "category": "",
     "settings": "",
@@ -42,7 +44,18 @@
         "quality": ""
     },
     "transcripts": "",
-    "metrics_statistics": "{\"CVV_VI\":{\"conversion_score\":{\"lastUpdatedDate\":\"2017-11-17\"}},\"VV_VI\":{\"engagement_score\":{\"lastUpdatedDate\":\"2017-10-20\"}}}",
+    "metrics_statistics": {
+        "CVV_VI": {
+            "conversion_score": {
+                "lastUpdatedDate": "2017-11-17"
+            }
+        },
+        "VV_VI": {
+            "engagement_score": {
+                "lastUpdatedDate": "2017-10-20"
+            }
+        }
+    },
     "tvp_profiles": [
         "16"
     ],
