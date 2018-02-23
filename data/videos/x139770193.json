@@ -1,0 +1,60 @@
+{
+    "title": "Ultimate Oatmeal and Oat Bran - February Monthly Special",
+    "description": "Andrew Lessman February Monthly Special - Ultimate Oatmeal or Oat Bran",
+    "referenceId": "vP8wUXSwjbI",
+    "date_created": "1517528970",
+    "date_modified": "1517840199",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "126",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "36",
+    "CVV_VI": "8",
+    "engagement_score": null,
+    "conversion_score": null,
+    "style": null,
+    "living": null,
+    "category6": null,
+    "series": null,
+    "video_type": null,
+    "storefront": "lessman_monthly_special",
+    "gemstone_guide": null,
+    "id": "139770193",
+    "loginId": "1758927",
+    "entityType": "1",
+    "titleTextEncoded": "Ultimate-Oatmeal-and-Oat-Bran-February-Monthly-Special",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/vP8wUXSwjbI\/maxresdefault.jpg",
+        "uploadDate": 1517528970,
+        "videoId": "vP8wUXSwjbI",
+        "title": "Ultimate Oatmeal and Oat Bran  February Monthly Special",
+        "description": "Andrew Lessman February Monthly Special - Ultimate Oatmeal or Oat Bran",
+        "author": "HSNtv",
+        "mediaDuration": 126,
+        "prettyDuration": "00:02:06",
+        "views": "1",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-02-18"
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2018-02-21"
+        }
+    },
+    "tvp_profiles": "",
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": "",
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": ""
+}
